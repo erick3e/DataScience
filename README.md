@@ -96,3 +96,8 @@ Microsoft also provides **[FREE for 12 months](https://azure.microsoft.com/en-us
 [Channel 9: Microsoft Product Videos](https://channel9.msdn.com/)
 
 [Youtube](http://wwww.youtube.com)
+
+## HELP?
+If you get stuck somwhere, ask for help! 
+
+[StackOverflow](https://stackoverflow.com/) is the go-to for anything related to tech. There are answers to almost everey question, and if there is not, you can ask a question and the community will respond.
