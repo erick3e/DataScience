@@ -7,7 +7,7 @@ Altough this field is not for everyone, there are many tracks and it is very rew
 ## First things first 
 Why switch? Data is everywhere and every day more is generated. Everything around you is generating data. From your search history to your taxes. There's valuable data everywhere and that means someone needs to parse it, understand it, make it useful and companies profit from it.
 
-## Where do I start? **
+## Where do I start?
 A good starting point is with a topic or field that interests you. I will use myself as an example, and my thought process that lead me here.
 I was interested in healthcare, and how data (or systems or computers) could help make it better. I have a background in science so thought of it this way:
     1. What is a problem I would like to fix in healthcare? Long ER wait times
